@@ -1,4 +1,3 @@
-C:\Users\othma\AppData\Local\Programs\Microsoft VS Code\bin
 
 
 %USERPROFILE%\AppData\Local\Microsoft\WindowsApps
