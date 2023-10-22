@@ -1,0 +1,15 @@
+C:\Users\othma\AppData\Local\Programs\Microsoft VS Code\bin
+
+
+%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+
+C:\Program Files\Azure Data Studio\bin
+
+C:\Users\othma\AppData\Roaming\npm\node_modules\@angular\cli\bin
+
+C:\Users\othma\AppData\Roaming\npm\node_modules\typescript\bin
+
+C:\laragon\bin\composer
+
+
+C:\Users\othma\AppData\Roaming\npm
